@@ -1,0 +1,26 @@
+{
+  "name": "march-3-express-practic",
+  "version": "0.0.1",
+  "description": "Putting in some reps with creating an mvc architecture using node express, and es6 templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinblainemyers/march3-express-practice.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "es6",
+    "destructuring"
+  ],
+  "author": "Dustin Blaine Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinblainemyers/march3-express-practice/issues"
+  },
+  "homepage": "https://github.com/dustinblainemyers/march3-express-practice#readme"
+}
